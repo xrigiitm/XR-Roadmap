@@ -14,7 +14,9 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
     -  [Brackeys Youtube Playlist](https://www.youtube.com/watch?v=IlKaB1etrik)
     -  [Unity Learn](https://learn.unity.com/)
 -   Fundamentals of Extended Reality
+    - [XR Design Process](https://www.youtube.com/watch?v=R2rm7otkYbQ)
     - [Intro to AR VR MR XR Technologies Applications & Issues](https://www.youtube.com/watch?v=AxZ2v-O3vds)
+-    
  
 
 ## Resources To Download Assets
