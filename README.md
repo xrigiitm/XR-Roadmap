@@ -6,7 +6,16 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
 
 
 ## Recommended XR Tutorials
--  
+-  Programming with C#
+    -  [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
+    -  [W3Schhols](https://www.w3schools.com/cs/index.php)
+    -  [Beginner-friendly scripting tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B)
+-  Unity
+    -  [Brackeys Youtube Playlist](https://www.youtube.com/watch?v=IlKaB1etrik)
+    -  [Unity Learn](https://learn.unity.com/)
+-   Fundamentals of Extended Reality
+    - [Intro to AR VR MR XR Technologies Applications & Issues](https://www.youtube.com/watch?v=AxZ2v-O3vds)
+ 
 
 ## Resources To Download Assets
 ### 3D Models
