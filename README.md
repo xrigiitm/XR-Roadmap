@@ -49,7 +49,9 @@ MR combines elements of both AR and VR, integrating digital objects into the rea
  
 ## Additional
 - Blender: [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
-- 
+- Animations : [iHeartGameDev Youtube](https://www.youtube.com/watch?v=-FhvQDqmgmU)
+- Avatars : [Ready Player Me](https://docs.readyplayer.me/ready-player-me/integration-guides/unity)
+  
  
 ## Version Control with Git and Github
 ### Git and Github for Beginners 
