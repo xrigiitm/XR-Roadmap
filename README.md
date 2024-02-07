@@ -15,6 +15,18 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
       - Textures
       - HDRI
 
+## Augmented Reality
+AR enhances the real world by overlaying digital information onto it, offering interactive experiences through devices like smartphones and AR glasses. It's widely used in navigation, education, and marketing.
+## Virtual Reality
+VR immerses users in a fully digital environment, allowing them to explore virtual worlds and interact with digital objects through headsets. It's popular in gaming, training simulations, and therapeutic scenarios.
+## Mixed Reality
+MR combines elements of both AR and VR, integrating digital objects into the real world in a way that they can interact in real-time. It's used in education, healthcare, and manufacturing for more intuitive interactions and learning experiences.
+
+
+
+
+
+
 
 ## XR Project Life Cycle
 ![XR Life cycle](https://github.com/xrigiitm/XR-Roadmap/assets/139524049/bb0a4abb-8c67-4ebb-bd95-15599cf94538)
@@ -34,6 +46,10 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
       - [AR development in Unity](https://docs.unity3d.com/Manual/AROverview.html)
 -    VR
       -  [VR development in Unity](https://docs.unity3d.com/Manual/VROverview.html)
+ 
+## Additional
+- Blender: [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
+- 
  
 
 ## Resources To Download Assets
