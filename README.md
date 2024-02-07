@@ -5,6 +5,15 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
 [Website](https://xrig94.editorx.io/xrig)
 ## Table of Contents
 
+-  Augmented Reality
+-  Virtual Reality
+-  Extended Reality
+-  XR Project Life Cycle
+-  Recommended XR Tutorials
+-  Resources To Download Assets
+      - 3D Models
+      - Textures
+      - HDRI
 
 
 ## XR Project Life Cycle
@@ -33,11 +42,7 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
 -  Turbosquid: [Turbosquid](https://www.turbosquid.com/)
 -  Free3D: [Free3D](https://free3d.com/)
 -  ReadyPlayerMe: [ReadyPlayerMe](https://readyplayer.me/)
--  Smithsonian X3D: [Smithsonian X3D](https://3d.si.edu/)
 -  Adobe Mixamo: [Adobe Mixamo](https://www.mixamo.com/)
--  3Delicious: [3Delicious](https://3delicious.net/)
--  RenderHub: [RenderHub](https://www.renderhub.com/)
--  Archive3D: [Archive3D](https://archive3d.net/)
 -  Unity Asset Store: [Unity Asset Store](https://assetstore.unity.com/)
 -  Autodesk Online Gallery: [Autodesk Online Gallery](https://gallery.autodesk.com/)
 
