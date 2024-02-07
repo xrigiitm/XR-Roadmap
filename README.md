@@ -52,7 +52,11 @@ MR combines elements of both AR and VR, integrating digital objects into the rea
 - 
  
 ## Version Control with Git and Github
+### Git and Github for Beginners 
+Git and Github : [Git and Github](https://www.youtube.com/watch?v=RGOj5yH7evk)
 ### Git and Github for Unity
+![]()
+
 
 ## Resources To Download Assets
 ### 3D Models
