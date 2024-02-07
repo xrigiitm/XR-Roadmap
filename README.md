@@ -6,7 +6,7 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
 
 
 ## XR Project Life Cycle
-![XR Project Life Cycle](https://github.com/xrigiitm/XR-Roadmap/issues/1#issue-2122160499)
+![XR Life cycle](https://github.com/xrigiitm/XR-Roadmap/assets/139524049/bb0a4abb-8c67-4ebb-bd95-15599cf94538)
 
 ## Recommended XR Tutorials
 -  Programming with C#
