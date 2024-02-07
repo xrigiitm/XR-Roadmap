@@ -51,6 +51,8 @@ MR combines elements of both AR and VR, integrating digital objects into the rea
 - Blender: [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
 - 
  
+## Version Control with Git and Github
+### Git and Github for Unity
 
 ## Resources To Download Assets
 ### 3D Models
