@@ -3,6 +3,7 @@
 Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). Extended Reality is a vast domain of immersive and spatial computing and can get really hard to find the best resources for learning Extended Reality. This repository compiles the best possible resources on XR out there, this is a very detailed and comprehensive roadmap with loads of amazing resources to learn from.
 
 [Website](https://xrig94.editorx.io/xrig)
+##
 ## Table of Contents
 
 -  Augmented Reality
