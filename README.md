@@ -10,6 +10,7 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
 - Additional Resources
 - Version Control for Unity Projects
 - InGameDebugConsole
+
 Our roadmap not only provides a step-by-step guide to XR development, but it will also help you get an idea of how we build XR projects. Recommended and additional tutorials will assist individuals in developing skills as a developer, covering all the necessary tools and knowledge required throughout the development process.
 
 ## Table of Contents
