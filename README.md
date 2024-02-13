@@ -19,6 +19,7 @@ Our roadmap not only provides a step-by-step guide to XR development, but it wil
 -  [Mixed Reality](#mixed-reality)
 -  [XR Project Life Cycle](#xr-project-life-cycle)
 -  [Recommended XR Tutorials](#recommended-xr-tutorials)
+-  [Version Control with Git and Github](#version-control-with-git-and-github)
 -  [Resources To Download Assets](#resources-to-download-assets)
       - [3D Models](#3d-models)
       - [Textures](#textures)
