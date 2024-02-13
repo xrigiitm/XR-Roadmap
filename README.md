@@ -15,14 +15,14 @@ Our roadmap not only provides a step-by-step guide to XR development, but it wil
 
 ## Table of Contents
 -  [Augmented Reality](#augmented-reality)
--  Virtual Reality
--  Extended Reality
--  XR Project Life Cycle
--  Recommended XR Tutorials
--  Resources To Download Assets
-      - 3D Models
-      - Textures
-      - HDRI
+-  [Virtual Reality](#virtual-reality)
+-  [Extended Reality](#extended-reality)
+-  [XR Project Life Cycle](#xr-project-life-cycle)
+-  [Recommended XR Tutorials](#recommended-xr-tutorials)
+-  [Resources To Download Assets](#resources-to-download-assets)
+      - [3D Models](#3d-models)
+      - [Textures](#textures)
+      - [HDRI](#hdri)
 
 ## Augmented Reality
 AR enhances the real world by overlaying digital information onto it, offering interactive experiences through devices like smartphones and AR glasses. It's widely used in navigation, education, and marketing.
