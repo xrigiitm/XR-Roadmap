@@ -16,7 +16,7 @@ Our roadmap not only provides a step-by-step guide to XR development, but it wil
 ## Table of Contents
 -  [Augmented Reality](#augmented-reality)
 -  [Virtual Reality](#virtual-reality)
--  [Extended Reality](#extended-reality)
+-  [Mixed Reality](#mixed-reality)
 -  [XR Project Life Cycle](#xr-project-life-cycle)
 -  [Recommended XR Tutorials](#recommended-xr-tutorials)
 -  [Resources To Download Assets](#resources-to-download-assets)
