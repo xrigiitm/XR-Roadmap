@@ -14,7 +14,7 @@ Welcome to the [XR-Roadmap]() made by XRIG(Extended Reality Innovation Group). E
 Our roadmap not only provides a step-by-step guide to XR development, but it will also help you get an idea of how we build XR projects. Recommended and additional tutorials will assist individuals in developing skills as a developer, covering all the necessary tools and knowledge required throughout the development process.
 
 ## Table of Contents
--  [Augmented Reality](https://github.com/xrigiitm/XR-Roadmap/blob/main/README.md#augmented-reality)
+-  [Augmented Reality](#Augmented Reality)
 -  Virtual Reality
 -  Extended Reality
 -  XR Project Life Cycle
